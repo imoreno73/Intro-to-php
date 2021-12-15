@@ -1,0 +1,7 @@
+h1 {background-color: #00ffff}
+p {font-size: large}
+.p1 {border: ridge #ec7c26 1px; color:#ec7c26; background-color:#dfeeee}
+.p2 {color:#ec7c26}
+.border-1{border:solid #ec7c26 1px; padding: 5px; background-color:#5acece;}
+.border-2{border:solid #ec7c26 1px; padding: 5px;background-color:#5acece;}
+img {background-color:#dfeeee; padding: 5px}
